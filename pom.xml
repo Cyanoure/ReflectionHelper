@@ -61,8 +61,8 @@
     </build>
     <repositories>
         <repository>
-            <id>inventive-repo</id>
-            <url>http://repo.inventivetalent.org/content/groups/public/</url>
+            <id>junit-repo</id>
+            <url>https://mvnrepository.com/artifact/junit/junit</url>
         </repository>
         <repository>
             <id>md_5-repo</id>
